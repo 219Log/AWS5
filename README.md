@@ -7,7 +7,7 @@
     - 사용자는 DNS서버 질의 응답 도메인질의 응답 어떤 퍼블릭인지 알게되었고
 - 도메인구조 및 DNS 서버 종류
     
-    ![IMG 6.JPEG](Chapter_5%20Amazon%20Route%2053%20Service%2025a336a6961281e0ba1ad848cb73de6d/IMG_6.jpeg)
+    ![IMG_6.jpeg](Chapter_5%20Amazon%20Route%2053%20Service%2025a336a6961281e0ba1ad848cb73de6d/IMG_6.jpeg)
     
     **1. 도메인 구조 (Domain Structure)**
     
